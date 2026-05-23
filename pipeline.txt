@@ -1,0 +1,28 @@
+YouTube URL
+│
+├── Lấy metadata video
+├── Lấy transcript tiếng Việt
+├── Chuẩn hóa transcript
+├── Lưu transcript JSON có timestamp
+│
+├── Chia transcript thành block 60s
+├── PhoBERT / RoBERTa Student embedding d=768
+├── Cosine Similarity Block_n và Block_n+1
+├── Topic Shift nếu similarity < threshold
+├── Gộp block thành topic lớn
+│
+│
+├── Qwen2.5-7B-Instruct
+│   ├── Sinh title từng topic
+│   ├── Sinh bullet points từng topic
+│   └── Sinh final summary
+│
+└── RAG QA Multimodal
+    ├── User hỏi
+    ├── Embed câu hỏi ( vinai/phobert-base + RoBERTa Student embedding + bge-m3)
+    ├── Search topic/block gần nhất
+    ├── Lấy text + timestamp 
+    └── Qwen3-4B-Instruct-2507 trả lời kèm timestamp 
+
+
+

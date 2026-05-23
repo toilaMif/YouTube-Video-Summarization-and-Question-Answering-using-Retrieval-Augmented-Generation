@@ -1,0 +1,45 @@
+KET QUA DANH GIA TOM TAT EXTRACTIVE
+==================================================
+So mau test: 100
+So cau moi ban tom tat: 3
+
+rouge1: 0.3897
+rouge2: 0.1983
+rougeL: 0.2616
+rougeLsum: 0.2616
+precision: 0.1717
+recall: 0.5892
+f1: 0.2616
+
+CAC MAU DAU TIEN
+==================================================
+
+--- Sample 1: Ông Kim Jong-un mở kính xe vẫy chào trong tiếng hò reo của người dân ---
+AI summary:
+Video : Võ Hải 12h30 ngày 2/3 , sau bốn ngày ở Hà Nội dự hội nghị thượng đỉnh Mỹ - Triều và thăm chính thức Việt Nam , trưa 2/3 , Chủ tịch Triều Tiên Kim Jong-un đã tới ga Đồng Đăng ( Lạng Sơn ) để lên chuyến tàu bọc thép quay trở lại Triều Tiên . Trước đó , khi đoàn xe đi tới khu vực cầu Chương Dương , ông Kim Jong-un cũng có hành động tương tự để cảm ơn người dân thủ đô đã dõi theo ông suốt những ngày qua . Đến sáng 2/3 , lãnh đạo Triều Tiên viếng Chủ tịch Hồ Chí Minh và đặt vòng hoa tại Đài tưởng niệm các anh hùng liệt sĩ trước khi lên đường về nước .
+Reference:
+Hạ kính xe Mercedes khi qua một đoạn đường , Chủ tịch Triều Tiên được người dân ở Đồng Đăng đáp lại nồng nhiệt .
+
+--- Sample 2: Trùm Yakuza bị bắt vì khoe hình xăm ---
+AI summary:
+Báo Bangkok_Post của Thái_Lan cho_biết đội phối_hợp gồm cảnh_sát quốc_tế Interpol , cảnh_sát địa_phương và lực_lượng chức_năng về nhập_cư của Thái_Lan đã bắt nghi phạm Shigeharu_Shirai tại huyện Muang khi ông này lơn_tơn đi bộ mua thức_ăn . Theo Reuters , nghi_phạm Shirai sẽ bị kết_tội nhập_cư bất_hợp_pháp vào Thái_Lan và sẽ bị trục_xuất về Nhật để đối_mặt với những cáo_buộc giết người . Cảnh_sát Hoàng_gia Thái_Lan cũng khẳng_định sau vụ này sẽ điều_tra các thành_viên băng_đảng Yakuza nghi_ngờ hoạt_động ở Thái_Lan , cả khi chúng không có lệnh bắt_giữ từ Nhật .
+Reference:
+Những hình xăm đầy ấn_tượng trên thân mình của người đàn_ông tóc bạc đã khiến cư_dân mạng thích_thú nhưng giờ_đây nó là vật_chứng tố_cáo : ông ta từng là trùm một băng mafia Nhật .
+
+--- Sample 3: Cái chết của cha con_người di_cư thổi bùng tranh_cãi ở Mỹ ---
+AI summary:
+Bức_ảnh của Le_Duc ban_đầu được đăng trên tờ la Jornada của Mexico , sau đó được hãng thông_tấn AP mua lại và chia_sẻ khắp thế_giới , như những gì họ đã làm với bức_ảnh " Em bé Napalm " của Nick_Út tại Trảng_Bàng , Việt_Nam năm 1972 . Breznican phản_đối ý_kiến của Aura_Bogado , phóng_viên điều_tra mảng người nhập_cư của tổ_chức Reveal_News , người cho rằng truyền_thông không nên đăng những bức_ảnh " ghê_tởm " như_vậy . Trong khi đó , Cris_Ramon , nhà phân_tích chính_sách nhập_cư tại Trung_tâm Bipartisan ở Washington , cho_rằng thế_giới " đang chứng_kiến những biện_pháp ngày_một tuyệt_vọng của những người tìm đường vào Mexico hoặc Mỹ " .
+Reference:
+Nhiều người xem bức ảnh tỏ ra tức_giận với chính_sách nhập_cư của Trump , cho_rằng thế_giới " chưa làm đủ " để giúp_đỡ người tị_nạn .
+
+--- Sample 4: Kỹ_sư 8X khởi_nghiệp từ hoa_lá ---
+AI summary:
+Phải mất nhiều năm liền , sản_phẩm nước thảo_mộc Golden_Drinks , dự_án khởi_nghiệp đầy tâm_huyết của chàng kỹ_sư 33 tuổi ở TP. HCM cùng các cộng_sự mới thành_hình và được thị_trường đón_nhận . Mong_muốn có được những sản_phẩm tốt cho sức_khoẻ , cùng khao_khát khởi_nghiệp - tạo ra giá_trị cho riêng mình , Minh sớm tìm đến bên các loại thảo_mộc rồi trả lại vị_thế mà nó vốn có . Để đảm_bảo các loại nguyên_vật_liệu được chăm trồng tự_nhiên , không sử_dụng các loại thuốc bảo_vệ thực_vật , anh tìm đến các hộ nông_dân ở một_số tình_thành như Lâm_Đồng , Bình_Thuận , Phan_Thiết … để đặt vấn_đề , hướng_dẫn và ký_kết thu_mua .
+Reference:
+Với bằng kỹ_sư hoá_sinh cùng mong_ước trả lại vị_thế vốn có cho trà thảo_mộc Việt , Lục_Anh_Minh ngày_đêm chế_tác và quyết_tâm khởi_nghiệp từ những sản_phẩm được làm hoàn_toàn từ hoa_lá .
+
+--- Sample 5: Máy bay chở 35 nhà ngoại giao Nga bị trục xuất rời Mỹ ---
+AI summary:
+Máy bay Nga đến đón các nhà ngoại giao và gia đình . Người thân các nhà ngoại giao nằm trong số 96 hành khách trên phi cơ được cử đặc biệt từ Nga tới . Các nhà ngoại giao bị Mỹ coi là đặc vụ tình báo hoạt động tại đại sứ quán Nga ở Washington D.C và lãnh sự quán ở San Francisco .
+Reference:
+35 nhà ngoại giao bị Mỹ trục xuất vì cáo buộc Nga can thiệp cuộc bầu cử tổng thống rời thủ đô Washington D.C , trở về Moscow đầu năm mới .

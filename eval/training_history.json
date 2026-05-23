@@ -1,0 +1,23 @@
+[
+  {
+    "epoch":1,
+    "total_loss":3.1809524574,
+    "mlm_loss":7.8482701237,
+    "distill_mse_loss":0.0005394348,
+    "cosine_loss":0.207142949
+  },
+  {
+    "epoch":2,
+    "total_loss":2.999945402,
+    "mlm_loss":7.4272016907,
+    "distill_mse_loss":0.0003764855,
+    "cosine_loss":0.1445704097
+  },
+  {
+    "epoch":3,
+    "total_loss":2.8783341845,
+    "mlm_loss":7.1340358822,
+    "distill_mse_loss":0.0003202045,
+    "cosine_loss":0.1229584882
+  }
+]
